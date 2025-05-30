@@ -54,7 +54,7 @@ See the [requirements.txt](./requirements.txt) included in the project.
 
    ```bash
    git clone https://github.com/Rasif2004/Hand-Written-Digit-Recognition.git
-   cd 
+   cd Hand-Written-Digit-Recognition
 2. **Set Up a Virtual Environment (Optional, but Recommended)**
    ```bash
    python -m venv venv
