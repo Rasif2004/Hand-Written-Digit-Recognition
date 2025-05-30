@@ -53,8 +53,8 @@ See the [requirements.txt](./requirements.txt) included in the project.
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/Rasif2004/Hand-Written-Digit-Recognition.git
+   cd 
 2. **Set Up a Virtual Environment (Optional, but Recommended)**
    ```bash
    python -m venv venv
